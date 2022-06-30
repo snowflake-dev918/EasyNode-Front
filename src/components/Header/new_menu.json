@@ -1,0 +1,60 @@
+[
+    {
+        "title": "Home",
+        "link": "/",
+        "submenu": []
+    },
+    {
+        "title": "Mint",
+        "link": "/mint",
+        "submenu": []
+    },
+    {
+        "title": "Wolf",
+        "link": "/#",
+        "submenu": [{
+            "title":"Roost",
+            "link":"/roost"
+        },
+        {
+            "title":"Leaderboard",
+            "link":"/leaderboard"
+        }]
+    },
+    {
+        "title": "FarmLand",
+        "link": "/#",
+        "submenu": [{
+            "title":"LP Farm",
+            "link":"/farm"
+        },
+        {
+            "title":"Tiles / Traits",
+            "link":"/tiles"
+        }]
+    },
+    {
+        "title": "Wallet",
+        "link": "/#",
+        "submenu": [{
+            "title":"Wolf",
+            "link":"/wallet_wolf"
+        },
+        {
+            "title":"FarmLands",
+            "link":"/wallet_farm"
+        }]
+    },
+    {
+        "title": "Market",
+        "link": "/#",
+        "submenu": [{
+            "title":"Wolf",
+            "link":"/market_wolf"
+        },
+        {
+            "title":"FarmLands",
+            "link":"/market_farm"
+        }]
+    }
+]

@@ -1,0 +1,28 @@
+/* 
+CSS related to React Tab
+*/
+
+.react-tabs__tab {
+    color: #f2f2f2!important;
+    font-weight: 700;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    font-size: 1rem;
+    font-family: Poppins;
+}
+
+.react-tabs__tab-list {
+    border-bottom: 1px solid #4650627a;
+}
+
+.selected-tab {
+    border-bottom: 2px solid var(--highlight-color);
+}
+
+
+/* React Select */
+
+.css-control {
+    background-color: transparent;
+}

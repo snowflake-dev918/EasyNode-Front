@@ -1,340 +1,46 @@
-Contribution: 2020-11-23 20:00
+# Getting Started with Create React App
 
-Contribution: 2020-11-23 20:01
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Contribution: 2020-11-23 20:02
+## Available Scripts
 
-Contribution: 2020-11-23 20:03
+In the project directory, you can run:
 
-Contribution: 2020-11-23 20:04
+### `yarn start`
 
-Contribution: 2020-11-23 20:05
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Contribution: 2020-11-23 20:06
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Contribution: 2020-11-23 20:07
+### `yarn test`
 
-Contribution: 2020-11-23 20:08
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contribution: 2020-11-23 20:09
+### `yarn build`
 
-Contribution: 2020-11-23 20:10
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2020-11-23 20:11
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Contribution: 2020-11-23 20:12
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Contribution: 2020-11-24 20:00
+### `yarn eject`
 
-Contribution: 2020-11-24 20:01
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Contribution: 2020-11-24 20:02
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Contribution: 2020-11-24 20:03
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Contribution: 2020-11-24 20:04
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Contribution: 2020-11-24 20:05
+## Learn More
 
-Contribution: 2020-11-24 20:06
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Contribution: 2020-11-24 20:07
-
-Contribution: 2020-11-24 20:08
-
-Contribution: 2020-11-25 20:00
-
-Contribution: 2020-11-28 20:00
-
-Contribution: 2020-11-28 20:01
-
-Contribution: 2020-11-28 20:02
-
-Contribution: 2020-12-03 20:00
-
-Contribution: 2020-12-03 20:01
-
-Contribution: 2020-12-03 20:02
-
-Contribution: 2020-12-03 20:03
-
-Contribution: 2020-12-03 20:04
-
-Contribution: 2020-12-03 20:05
-
-Contribution: 2020-12-03 20:06
-
-Contribution: 2020-12-03 20:07
-
-Contribution: 2020-12-03 20:08
-
-Contribution: 2020-12-03 20:09
-
-Contribution: 2020-12-03 20:10
-
-Contribution: 2020-12-03 20:11
-
-Contribution: 2020-12-03 20:12
-
-Contribution: 2020-12-03 20:13
-
-Contribution: 2020-12-03 20:14
-
-Contribution: 2020-12-03 20:15
-
-Contribution: 2020-12-03 20:16
-
-Contribution: 2020-12-03 20:17
-
-Contribution: 2020-12-06 20:00
-
-Contribution: 2020-12-07 20:00
-
-Contribution: 2020-12-07 20:01
-
-Contribution: 2020-12-07 20:02
-
-Contribution: 2020-12-08 20:00
-
-Contribution: 2020-12-08 20:01
-
-Contribution: 2020-12-08 20:02
-
-Contribution: 2020-12-08 20:03
-
-Contribution: 2020-12-10 20:00
-
-Contribution: 2020-12-10 20:01
-
-Contribution: 2020-12-10 20:02
-
-Contribution: 2020-12-10 20:03
-
-Contribution: 2020-12-10 20:04
-
-Contribution: 2020-12-10 20:05
-
-Contribution: 2020-12-10 20:06
-
-Contribution: 2020-12-10 20:07
-
-Contribution: 2020-12-10 20:08
-
-Contribution: 2020-12-10 20:09
-
-Contribution: 2020-12-10 20:10
-
-Contribution: 2020-12-10 20:11
-
-Contribution: 2020-12-10 20:12
-
-Contribution: 2020-12-10 20:13
-
-Contribution: 2020-12-10 20:14
-
-Contribution: 2020-12-10 20:15
-
-Contribution: 2020-12-10 20:16
-
-Contribution: 2020-12-10 20:17
-
-Contribution: 2020-12-10 20:18
-
-Contribution: 2020-12-11 20:00
-
-Contribution: 2020-12-11 20:01
-
-Contribution: 2020-12-11 20:02
-
-Contribution: 2020-12-11 20:03
-
-Contribution: 2020-12-11 20:04
-
-Contribution: 2020-12-11 20:05
-
-Contribution: 2020-12-11 20:06
-
-Contribution: 2020-12-11 20:07
-
-Contribution: 2020-12-11 20:08
-
-Contribution: 2020-12-11 20:09
-
-Contribution: 2020-12-11 20:10
-
-Contribution: 2020-12-11 20:11
-
-Contribution: 2020-12-11 20:12
-
-Contribution: 2020-12-11 20:13
-
-Contribution: 2020-12-11 20:14
-
-Contribution: 2020-12-11 20:15
-
-Contribution: 2020-12-11 20:16
-
-Contribution: 2020-12-11 20:17
-
-Contribution: 2020-12-11 20:18
-
-Contribution: 2020-12-12 20:00
-
-Contribution: 2020-12-12 20:01
-
-Contribution: 2020-12-12 20:02
-
-Contribution: 2020-12-12 20:03
-
-Contribution: 2020-12-12 20:04
-
-Contribution: 2020-12-12 20:05
-
-Contribution: 2020-12-12 20:06
-
-Contribution: 2020-12-12 20:07
-
-Contribution: 2020-12-12 20:08
-
-Contribution: 2020-12-12 20:09
-
-Contribution: 2020-12-12 20:10
-
-Contribution: 2020-12-12 20:11
-
-Contribution: 2020-12-12 20:12
-
-Contribution: 2020-12-12 20:13
-
-Contribution: 2020-12-12 20:14
-
-Contribution: 2020-12-12 20:15
-
-Contribution: 2020-12-12 20:16
-
-Contribution: 2020-12-12 20:17
-
-Contribution: 2020-12-12 20:18
-
-Contribution: 2020-12-13 20:00
-
-Contribution: 2020-12-13 20:01
-
-Contribution: 2020-12-13 20:02
-
-Contribution: 2020-12-13 20:03
-
-Contribution: 2020-12-13 20:04
-
-Contribution: 2020-12-13 20:05
-
-Contribution: 2020-12-13 20:06
-
-Contribution: 2020-12-13 20:07
-
-Contribution: 2020-12-13 20:08
-
-Contribution: 2020-12-13 20:09
-
-Contribution: 2020-12-14 20:00
-
-Contribution: 2020-12-14 20:01
-
-Contribution: 2020-12-14 20:02
-
-Contribution: 2020-12-14 20:03
-
-Contribution: 2020-12-14 20:04
-
-Contribution: 2020-12-14 20:05
-
-Contribution: 2020-12-14 20:06
-
-Contribution: 2020-12-14 20:07
-
-Contribution: 2020-12-14 20:08
-
-Contribution: 2020-12-14 20:09
-
-Contribution: 2020-12-14 20:10
-
-Contribution: 2020-12-14 20:11
-
-Contribution: 2020-12-14 20:12
-
-Contribution: 2020-12-14 20:13
-
-Contribution: 2020-12-14 20:14
-
-Contribution: 2020-12-14 20:15
-
-Contribution: 2020-12-14 20:16
-
-Contribution: 2020-12-15 20:00
-
-Contribution: 2020-12-15 20:01
-
-Contribution: 2020-12-15 20:02
-
-Contribution: 2020-12-15 20:03
-
-Contribution: 2020-12-15 20:04
-
-Contribution: 2020-12-15 20:05
-
-Contribution: 2020-12-15 20:06
-
-Contribution: 2020-12-19 20:00
-
-Contribution: 2020-12-19 20:01
-
-Contribution: 2020-12-19 20:02
-
-Contribution: 2020-12-19 20:03
-
-Contribution: 2020-12-19 20:04
-
-Contribution: 2020-12-19 20:05
-
-Contribution: 2020-12-19 20:06
-
-Contribution: 2020-12-19 20:07
-
-Contribution: 2020-12-19 20:08
-
-Contribution: 2020-12-20 20:00
-
-Contribution: 2020-12-21 20:00
-
-Contribution: 2020-12-21 20:01
-
-Contribution: 2020-12-21 20:02
-
-Contribution: 2020-12-21 20:03
-
-Contribution: 2020-12-21 20:04
-
-Contribution: 2020-12-22 20:00
-
-Contribution: 2020-12-22 20:01
-
-Contribution: 2020-12-22 20:02
-
-Contribution: 2020-12-22 20:03
-
-Contribution: 2020-12-22 20:04
-
-Contribution: 2020-12-22 20:05
-
-Contribution: 2020-12-22 20:06
-
-Contribution: 2020-12-22 20:07
-
-Contribution: 2020-12-22 20:08
-
-Contribution: 2020-12-22 20:09
-
-Contribution: 2020-12-22 20:10
-
-Contribution: 2020-12-22 20:11
-
+To learn React, check out the [React documentation](https://reactjs.org/).
